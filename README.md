@@ -1,6 +1,4 @@
-#This is a site to make secure passwords.
-Currenly only generates all criteria and can't do specifics as of right now.
-I will be doing more work and resubmitting after I have some free time. I did the best I could with the time I had.
+This is a site to make secure passwords, you can choose which types of characters you would like to use, then you are prompted to pick how long you password is.
 
 Live Site: https://thiccie-c.github.io/friendly-parakeet/ (Links to an external site.)
 
